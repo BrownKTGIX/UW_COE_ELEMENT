@@ -25,4 +25,4 @@ Most common form fields are likely already mapped to Data Sources.  If you need 
 
 ## Step 2: Create a new form
 
-![Form Fields](/assets/Formfields.jpg)
+![Form Fields](/assets/Formfields.png)
