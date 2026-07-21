@@ -25,4 +25,11 @@ Most common form fields are likely already mapped to Data Sources.  If you need 
 
 ## Step 2: Create a new form
 
+Decide what form fields you need to populate. Please read (/Forms/Create Forms) for tips to make sure your form functions correctly in the UW instance.
+
+> [!NOTE] 
+> Recommended practice: Consider a balance between amount of information you need at this stage, and ease of completing the form.  Shorter initial forms will get more engagement.
+
 ![Form Fields](/Assets/Formfields.png)
+
+
