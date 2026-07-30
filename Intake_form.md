@@ -1,6 +1,7 @@
 # Build an Intake Form
 
 Relevant Element Modules:
+
 Data Sources:https://help.element451.com/en/collections/3846538-data-sources
 
 Field Management: https://help.element451.com/en/collections/3846539-field-management
@@ -31,5 +32,8 @@ Decide what form fields you need to populate. Please read <a href="/Forms/Create
 > Recommended practice: Consider a balance between amount of information you need at this stage, and ease of completing the form.  Shorter initial forms will get more engagement.
 
 ![Form Fields](/Assets/Formfields.png)
+
+## Step 3: Create a Segment
+
 
 
