@@ -24,6 +24,11 @@ You can further develop these leads by using workflows to enroll them into other
 
 Most common form fields are likely already mapped to Data Sources.  If you need a new Data Source, please check out the Data Source article.
 
+> [!WARNING]
+> Most form field choices, if used in multiple forms, will overwrite with the latest submission.
+
+For example, ![Data Sources](/Assets/Datasources.png)If you use the  '[COE] How did you hear about us' field on multiple forms, the most recent submission will overwrite any previous submissions.
+
 ## Step 2: Create a new form
 
 Decide what form fields you need to populate. Please read <a href="/Forms/Create Forms">Create Forms</a> for tips to make sure your form functions correctly in the UW instance.
@@ -34,6 +39,8 @@ Decide what form fields you need to populate. Please read <a href="/Forms/Create
 ![Form Fields](/Assets/Formfields.png)
 
 ## Step 3: Create a Segment
+
+Segments are how you sort and filter users. In order take any actions like sending an email or automation steps, you must create a segment that will be the target of any actions.
 
 
 
