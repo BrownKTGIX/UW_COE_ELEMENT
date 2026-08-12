@@ -27,7 +27,7 @@ Most common form fields are likely already mapped to Data Sources.  If you need 
 > [!WARNING]
 > Most form field choices, if used in multiple forms, will overwrite with the latest submission.
 
-For example, ![Data Sources](/Assets/Datasources.png)If you use the  '[COE] How did you hear about us' field on multiple forms, the most recent submission will overwrite any previous submissions.
+For example, ![Data Sources](/Assets/COE%20How%20did%20you%20hear.png)If you use the  '[COE] How did you hear about us' field on multiple forms, the most recent submission will overwrite any previous submissions.
 
 ## Step 2: Create a new form
 
