@@ -38,10 +38,10 @@ Start with the action you'd like to take, like **sending an email** or **assigni
 
 Example: assign a phone call automatically to your team to everyone who has not accepted your admissions offer.
 
-[] Goal: Create a balanced assignment list of phone calls for your admissions team of 3 people.
-[] Create an automation to automatically distribute tasks
-[] Create a Task 
-[] Create a Task Template (Implementation Captain role)
-[] Create the target segment (Students who have not accepted your offer)
-[] Import or Filter data to create the segment (Slate or SDB Status import)
+- [ ] Goal: Create a balanced assignment list of phone calls for your admissions team of 3 people.
+- [ ] Create an automation to automatically distribute tasks
+- [ ] Create a Task 
+- [ ] Create a Task Template (Implementation Captain role)
+- [ ] Create the target segment (Students who have not accepted your offer)
+- [ ] Import or Filter data to create the segment (Slate or SDB Status import)
 
