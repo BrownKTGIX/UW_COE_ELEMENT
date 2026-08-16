@@ -42,5 +42,6 @@ Decide what form fields you need to populate. Please read <a href="/Forms/Create
 
 Segments are how you sort and filter users. In order take any actions like sending an email or automation steps, you must create a segment that will be the target of any actions.
 
-
+>[!TIP]
+>If you make a copy of your lead form for different events, you can make a simple workflow to just enroll those leads into other workflows, like a drip campaign.  This way you can give everyone the same experience.
 
