@@ -1,4 +1,4 @@
-# Processing Mapping to Segments
+# Mapping Processes to Segments
 
 A quick exercise to determine what key stages are in your process, and how you determine when people reach that stage.
 
@@ -18,8 +18,11 @@ Here is a sample of communications or actions you may want to do during an admis
 
 Given the examples above, we can consider:
 
-1. Started but not submitted - Slate "Application by Population Status"= Awaiting Submission (Plus appropriate term/program code filters)
-2. Upcoming Onboarding - Slate "SDB Status - Most Recent"= Enrollment Packet (Or Registered, depending on timing)
+ | Stage | Slate Identifier | Category to Map to | Segment |
+ | --- | --- | --- | --- |
+ | Started but not submitted | Slate "Application by Population Status"= Awaiting Submission (Plus appropriate term/program code filters) | [PROGRAM] Application Status | Application Status in Awaiting submission |
+| Upcoming Onboarding | Slate "SDB Status - Most Recent"= Enrollment Packet (Or Registered, depending on timing) | [PROGRAM] Enrollment Status | Enrollment Status in Deposited | 
 3. Assign Applications - Slate "Admission Review Bin" or "Application by Population - Status" = Awaiting Review
 4. ECD Deadlines - Slate "SDB Status - Most Recent"= Offered-Synced
+
 
