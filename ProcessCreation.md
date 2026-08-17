@@ -24,3 +24,8 @@ Given the examples above, we can consider:
 | Upcoming Onboarding | "SDB Status - Most Recent"= Enrollment Packet (Or Registered, depending on timing) | [PROGRAM] Enrollment Status | Enrollment Status in Deposited, Registered | 
 | Assign Applications | "Admission Review Bin" or "Application by Population Status" = Awaiting Review | [PROGRAM] Application Status | Application Status IS Awaiting Review
 | ECD Deadlines | Slate "SDB Status - Most Recent"= Offered-Synced | [PROGRAM] Enrollment Status | [PROGRAM] Enrollment Status IS No Deposit
+
+
+## 3. Build Segments 
+
+With the process mapped, you can now build segments, which allows you to undertake a number of other tasks like send out appointment invites (or assign appointment invitations to your team), send emails, or other actions, and in many cases once the process is mapped, you can trigger all of the processes with just a file upload if you wish.
