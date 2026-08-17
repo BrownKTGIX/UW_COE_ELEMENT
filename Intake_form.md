@@ -43,5 +43,31 @@ Decide what form fields you need to populate. Please read <a href="/Forms/Create
 Segments are how you sort and filter users. In order take any actions like sending an email or automation steps, you must create a segment that will be the target of any actions.
 
 >[!TIP]
->If you make a copy of your lead form for different events, you can make a simple workflow to just enroll those leads into other workflows, like a drip campaign.  This way you can give everyone the same experience.
+> Label one-time use segments with a specific label, so you can easily find and delete them later.  For example you may want to send a follow-up to people who attended a specific one time event. Consider deleting segments if they're no longer needed.
+
+You can make segments based on actions that users take within Element:
+* Registered for or attended an event
+* Did not show for an appointment
+* Submitted your RFI form
+
+You can also make segments based on data that you have imported:
+* Started but not submitted applications
+* A list of leads
+* Leads from digital advertising
+* People who have not accepted their admissions offer
+
+For imported people you will need to identify them somehow by identifying a field to serve as a filter.  While you can also create audiences from imports directly, it is probably not best practice for those whom you want to communicate with again later, as it will be more challenging to combine them with other groups.
+
+>[!NOTE]
+> The logic filters are not traditional Boolean.  'In' denotes any of a number of choices, while 'Is' means only a single choice.  If you want to include or exclude multiple options (for example, if you have multiple checkbox selections that a user can enter), you should use "in"/"not in"
+
+>[!WARNING]
+>Be very careful with the 'does not exist' filter.  You are very likely to get every almost every lead in Element in a segment this way.
+>
+>
+  
+
+
+
+
 
