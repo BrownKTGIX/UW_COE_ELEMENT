@@ -2,7 +2,7 @@
 
 This article will take you through a basic process in Element and help you determine next steps.
 
-Before you do anything consider a few basic points about Element
+Before you do anything consider a few basic points about Element.
 
 ## The Database
 
