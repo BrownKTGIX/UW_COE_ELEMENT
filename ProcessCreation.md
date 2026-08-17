@@ -2,7 +2,7 @@
 
 A quick exercise to determine what key stages are in your process, and how you determine when people reach that stage.
 
-1. What are key milestones in your admissions process where you want to take some action with an applicant or student?
+## 1. What are key milestones in your admissions process where you want to take some action with an applicant or student?
 
 Here is a sample of communications or actions you may want to do during an admissions process:
 
@@ -14,7 +14,7 @@ Here is a sample of communications or actions you may want to do during an admis
 
 * Remind applicants of Enrollment Confirmation Deposit deadlines
 
-2. Based on the action you want to take, how do you identify when people are ready for the step?
+## 2. Based on the action you want to take, how do you identify when people are ready for the step?
 
 Given the examples above, we can consider:
 
