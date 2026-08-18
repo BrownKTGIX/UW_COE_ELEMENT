@@ -13,3 +13,29 @@ Terms:
 | Defer | Deposited but deferred admission (includes DD} |
 | Deny | Denied Admission
 | Withdrawn | Withdrawn or declined admission offer | 
+
+
+## Leads
+
+Goals: Move through funnel by encouraging engagement
+
+Identified by: MSTI RFI Program of Interest Field, Email Field, Phone Number Field, Zip Code Field, RFI Start Term Field
+
+Should Include: Source Field (Digital ads, website, forms, fairs)
+
+Tactics: 
+Enroll in Drip Email Campaign
+Enroll in Event Reminder Campaign
+
+## Prospects 
+
+Goals: Submit Application
+
+Identified by: MSTI RFI Program of Interest Field, Email Field, Phone Number Field, Zip Code Field, RFI Start Term Field 
+AND
+Event Registration: Info Session, Tours, Appointments
+
+Tactics:
+Personalized outreach from MSTI Advising Staff/MSTI Student Ambassadors/MSTI Alumni
+
+## Qualified
