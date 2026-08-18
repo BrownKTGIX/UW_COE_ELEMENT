@@ -27,7 +27,7 @@ You can further develop these leads by using workflows to enroll them into other
 
 ## Step 1: Determine what information to collect and determine if new Data Sources are needed.
 
-Most common form fields are likely already mapped to Data Sources.  If you need a new Data Source, please check out the ![Data Source article](/Data_Sources/Create Data Sources.md/)
+Most common form fields are likely already mapped to Data Sources.  If you need a new Data Source, please check out the [Data Source article](/Data_Sources/Create Data Sources.md/)
 
 > [!WARNING]
 > Most form field choices, if used in multiple forms, will overwrite with the latest submission.
