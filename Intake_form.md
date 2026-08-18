@@ -12,6 +12,11 @@ Campaigns: https://help.element451.com/en/collections/124581-campaigns
 
 Workflows: https://help.element451.com/en/collections/124560-workflows-rules
 
+### Goals:
+1. Build a Form and the associated Data Fields
+2. Make a Segment
+3. Send an automated email once the form is submitted
+
 ## What do I use an intake form for?
 
 Intake forms are a great way to capture engagement and quickly and professionally communicate with them.
@@ -50,6 +55,12 @@ You can make segments based on actions that users take within Element:
 * Did not show for an appointment
 * Submitted your RFI form
 
+In this case, since submission of the RFI is done within Element, we can use the 'submitted form' filter to point to your specific form that was created above.
+
+submittedform.jpg
+
+### Other ways to make a segment
+
 You can also make segments based on data that you have imported:
 * Started but not submitted applications
 * A list of leads
@@ -63,8 +74,25 @@ For imported people you will need to identify them somehow by identifying a fiel
 
 >[!WARNING]
 >Be very careful with the 'does not exist' filter.  You are very likely to get every almost every lead in Element in a segment this way.
->
->
+
+
+
+## Step 4: Build an email to send to the Segment
+
+Since we are building a segment based on form submission, we probably want those who sign up to get a confirmation email and some initial information about the program.
+
+You can also send 'One-Time Communications' to a segment directly, but you will have to manually trigger these sends.
+
+Build your email in 'Ongoing Communications' to allow it to be used in a workflow.  See COMMUNICATIONS for more details.
+
+>[!NOTE]
+>The default send address is a from engr-professional@engr.uw.edu, don't forget to change this setting for your department.
+
+Defaultemail.jpg
+
+## Step 5: Build a Workflow
+
+Since we have already 
   
 
 
