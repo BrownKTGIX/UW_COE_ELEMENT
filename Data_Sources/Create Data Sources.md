@@ -25,11 +25,11 @@ Suppose you want to make an interest form and want to know if someone is interes
 
 You might think about using the Intended Degree field:
 
-![Intended Degree](Assets/degreedatasource.png)
+![Intended Degree](/Assets/degreedatasource.png)
 
 This field maps to the 'Degrees' Data Source
 
-![Degree Data Source](Assets/degreedatasource.png)
+![Degree Data Source](/Assets/degreedatasource.png)
 
 This lets your have a dropdown list of majors to select from.
 
