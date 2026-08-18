@@ -57,7 +57,7 @@ You can make segments based on actions that users take within Element:
 
 In this case, since submission of the RFI is done within Element, we can use the 'submitted form' filter to point to your specific form that was created above.
 
-submittedform.jpg
+![Submitted Form](Assets/submittedform.jpg)
 
 ### Other ways to make a segment
 
@@ -88,14 +88,41 @@ Build your email in 'Ongoing Communications' to allow it to be used in a workflo
 >[!NOTE]
 >The default send address is a from engr-professional@engr.uw.edu, don't forget to change this setting for your department.
 
-Defaultemail.jpg
+![Default Email](Assets/Defaultemail.jpg)
 
 ## Step 5: Build a Workflow
 
-Since we have already 
+Since we have already built a segment out above, we can now use that as the target of a workflow.
+
+First, we will make a new workflow, and use the form submission as a trigger to run. 
+
+>[!NOTE] 
+>This will make your segment a 'Calculated Segment'. You will need a segment to be Calculated if you want the workflow to check the segment for updates when it runs.  If you do not use a calculated segment it will load your segment once, and not check for updates.
+
+![Submitted Trigger](Assets/formsubmittrigger.jpg)
   
 
+>[!WARNING]
+>Once you add a segment, you cannot remove the users in that segment from a workflow as a batch easily.  If you add a segment by mistake, you can duplicate the workflow and it will keep all your steps but remove all segments.
 
+Next, add the subsequent actions you'd like to take, in this case, send the communication you wrote in STEP 4.
+
+![Send Communication](Assets/sendemail.jpg)
+
+You can add delays, or additional filtering here, for specific segments as you move through the workflow.
+
+**When your workflow is ready to go live, make sure you click the 'Active' button**
+
+>[!IMPORTANT]
+>Should you add an finish or exit workflow step?
+
+This step is really only important if you want to make a segment of users that have completed or exited the workflow.  If you plan to add more steps in the future, just leave the workflow open.
+
+
+
+## Step 6: Testing
+
+You can add a test user, or better yet, submit the form as your test user and check that your workflow is functioning correctly.
 
 
 
